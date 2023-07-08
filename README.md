@@ -1,5 +1,5 @@
-# -Data-Comparison-tool-using-Pandas-and-Dataframe
-Developed a Pandas and DataFrame-based project to compare healthcare facilities on successful child deliveries, providing valuable insights for healthcare improvement
+# -Data-Comparison-tool-using-Pandas-,DataFrame,-and-Matplotlib
+Developed a Pandas, DataFrame and Matplotlib-based project to compare healthcare facilities on successful child deliveries, providing valuable insights for healthcare improvement
 This was one of my initial Projects. It was me exploring tools like Pandas and Dataframe. Though the code looks only 400 lines, It was a learning experience. Because it was my first time creating a project that had some use apart from the above features and tool that could be imported into Python.
 What I learned other than the technical aspect.
 1. How restricted programming languages, in general, are compared to what they can do.
