@@ -6,10 +6,13 @@ What I learned other than the technical aspect.
 2. How the data is stored or shared in the real world
 3. How open source data generally works.
 4. Government is more open than we think
+   
 Further improvements:
 1. We can create a UI interface for the program with tools
 2. Implementation of a machine learning model can help in prediction if we train data over multiple past data
 3. Also, we can implement more flexibility on the type of chart and data availability.
+
+
 Here is a bit about the data we were working on:
 HMIS stands for Health Management Information System. It is a web-based Monitoring Information System of the Ministry of Health & Family Welfare to monitor the National Health Mission and other National Health Programmes. It provides key inputs for policy formulation and appropriate program intervention
 You can read more about it here: https://community.data.gov.in/hmis-data-on-open-government-data-ogd-platform/
